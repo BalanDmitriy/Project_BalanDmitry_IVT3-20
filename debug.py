@@ -5,7 +5,7 @@ structure = {
     "name": "main",
     "children": {
         "first": {
-            "count": 1,
+            "count": [1, 2, 3, 4],
             "children": {
                 "third": {
                    "count": 3

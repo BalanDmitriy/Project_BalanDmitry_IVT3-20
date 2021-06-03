@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 git clone "url to current repository"<br/>
 virtualenv venv<br/>
-venv activite<br/>
+venv activate<br/>
 pip install git+"url to current repository"
 
 ### Usage
