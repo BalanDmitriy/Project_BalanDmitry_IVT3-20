@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+solution/__init__.py
+solution/transposition.py
+transposition.egg-info/PKG-INFO
+transposition.egg-info/SOURCES.txt
+transposition.egg-info/dependency_links.txt
+transposition.egg-info/not-zip-safe
+transposition.egg-info/top_level.txt
