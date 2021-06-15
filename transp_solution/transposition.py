@@ -1,7 +1,7 @@
 
 
 
-class Transposition(object):
+class Transposition:
     """
     Main idea is call a function that converts
     a structure to a flat array returning a structure 
@@ -45,7 +45,7 @@ class Transposition(object):
 
         return self.flat_array
 
-    def recursion_split(self, k: str, v: any, out: dict) -> None:
+    def recursion_split(self, k: str, v: any, out: dict):
         """
         Calling recursively keys of a structure
         to break them on '.' delimiter
